@@ -17,7 +17,7 @@ Example LED code for the  [Bare Conductive Pi Cap](http://www.bareconductive.com
 
 ## Usage
 
-    colour-spin
+    node colour-spin.js
     
 N.B. must be run as root
     
