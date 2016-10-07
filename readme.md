@@ -6,7 +6,7 @@ Example LED code for the  [Bare Conductive Pi Cap](http://www.bareconductive.com
 
 ## Requirements
 * Requires [WiringPi](http://wiringpi.com/) (`apt-get install wiringpi`)
-* Requires [Node.js](https://nodejs.org/en/) 0.12 or later
+* Requires [Node.js](https://nodejs.org/en/) 6.7.0
 * Requires [NPM](https://www.npmjs.com/)
 
 
